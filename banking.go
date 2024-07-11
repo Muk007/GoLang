@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"globallogic.com/bank/customops"
+	"globallogic.com/bank/customops" //This package is defined in customops/customops.go file
 )
 
 const fileName = "balance.txt"
