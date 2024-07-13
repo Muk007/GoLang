@@ -7,7 +7,7 @@ import (
 func main() {
 	var a = 5
 	fmt.Println(a)
-	// Converting a variable into into address
+	// Converting a variable into its address
 	address := &a
 	fmt.Println(address)
 
